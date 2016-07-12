@@ -20,5 +20,6 @@ public class ConsecutiveNumbers {
      * @param args - аргументы коммандной строки
      */
     public static void main(String[] args) {
+	 // hi
     }
 }
